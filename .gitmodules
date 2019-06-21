@@ -1,3 +1,18 @@
 [submodule "go-cards"]
 	path = go-cards
 	url = git@github.com:WendySanarwanto/go-cards.git
+[submodule "go-structs"]
+	path = go-structs
+	url = git@github.com:WendySanarwanto/go-structs.git
+[submodule "go-map"]
+	path = go-map
+	url = git@github.com:WendySanarwanto/go-map.git
+[submodule "go-interface"]
+	path = go-interface
+	url = git@github.com:WendySanarwanto/go-interface.git
+[submodule "go-http-interface"]
+	path = go-http-interface
+	url = git@github.com:WendySanarwanto/go-http-interface.git
+[submodule "go-channels"]
+	path = go-channels
+	url = git@github.com:WendySanarwanto/go-channels.git
